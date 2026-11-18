@@ -10,7 +10,6 @@
 
 | 프로젝트 | 소개 | 형태 |
 |---|---|---|
-| [**project_workspace**](https://github.com/isnull0x00/project_workspace) | 울산 버스 노선별 이용자 예측과 불편 신고 접수 시스템. 구현 내용과 측정 결과, 한계는 저장소 README에 정리했습니다. | 개인 (2026.10~) |
 | [project3](https://github.com/isnull0x00/project3) | 울산 버스 불편 신고 접수·처리 시스템. 개인 프로젝트의 예측 서버를 이식해 연동했습니다. | 팀 3인, 3차 |
 | [project2](https://github.com/isnull0x00/project2) | 가스 공급량 수요 예측 대시보드. 전국 통계 페이지를 만들었습니다. | 팀 3인, 2차 |
 | [project1](https://github.com/isnull0x00/project1) | 냉·난방 AS 실시간 예약. 동시 예약 방지와 DB 설계를 맡았습니다. | 팀 3인, 1차 |
