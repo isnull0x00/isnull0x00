@@ -7,11 +7,11 @@
 
 ## 프로젝트
 
-| 프로젝트 | 소개 | 형태 |
+| 저장소 | 소개 | 형태 |
 |---|---|---|
-| [project3](https://github.com/isnull0x00/project3) | 울산 버스 불편 신고 접수·처리 시스템. 예측 서버(FastAPI)와 시간대별 예측을 구현했습니다. 일별 예측 오차 10.9%(후보 9개 비교) | 팀 3인, 3차 |
-| [project2](https://github.com/isnull0x00/project2) | 가스 공급량 수요 예측 대시보드. 전국 통계 페이지를 구현했습니다. 두 API를 동시에 요청해 응답 시간 258ms → 169ms(로컬) | 팀 3인, 2차 |
-| [project1](https://github.com/isnull0x00/project1) | 냉·난방 AS 실시간 예약. 예약 기능과 동시 예약 방지를 구현했습니다. 같은 시간 10건 동시 예약 → 1건만 저장 | 팀 3인, 1차 |
+| [project3](https://github.com/isnull0x00/project3) | 버스 불편 신고를 접수하고 급한 것부터 처리하는 울산 버스 신고 시스템 | 팀 3인, 3차 |
+| [project2](https://github.com/isnull0x00/project2) | 기온·인구와 가스 공급량의 관계를 분석해 보여 주는 수요 예측 대시보드 | 팀 3인, 2차 |
+| [project1](https://github.com/isnull0x00/project1) | 냉·난방 AS를 날짜와 시간대로 예약하는 실시간 예약 서비스 | 팀 3인, 1차 |
 
 팀 프로젝트 저장소는 제 포크이고, 각 README에 구현 범위와 커밋 링크를 적어 두었습니다.
 
